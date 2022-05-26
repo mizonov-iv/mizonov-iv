@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[https://www.codewars.com/users/mizonov-iv/badges/micro](Code Wars)
+
 <!--
 **mizonov-iv/mizonov-iv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
