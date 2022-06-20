@@ -1,4 +1,4 @@
-## ![React](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=REACT)
+## ![React](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=React)
 - Simple Note App [Demo](https://react-note-app06.web.app/) | [Code](https://github.com/mizonov-iv/ReactNoteApp)
 
 ## ![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=ANGULAR)
