@@ -1,4 +1,4 @@
-## ![React](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=React)
+## ![React]([https://img.shields.io/badge/angular-000?style=for-the-badge&logo=React](https://camo.githubusercontent.com/ef6e09e16bebcd58808ff7fb0d7009ca3ebb0cabdd506652bdc345c0e973246e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52454143542d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d5245414354))
 - Simple Note App [Demo](https://react-note-app06.web.app/) | [Code](https://github.com/mizonov-iv/ReactNoteApp)
 
 ## ![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=ANGULAR)
