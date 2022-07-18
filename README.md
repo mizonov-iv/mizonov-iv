@@ -1,11 +1,12 @@
-## ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=REACT)
-- Simple Note App [Demo](https://react-note-app06.web.app/) | [Code](https://github.com/mizonov-iv/ReactNoteApp)
 
 ## ![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=ANGULAR)
 - Task Manager [Code](https://github.com/mizonov-iv/Task-manager)
 - Online Shop [Demo](https://online-shop-18c7d.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/OnlineShopSPA)
 - Blog [Demo](https://angular-blog2022.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/AngularBlog)
 - ToDoList [Demo](https://simpletodoapplication1.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/AngularToDoApplication)
+
+## ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=REACT)
+- Simple Note App [Demo](https://react-note-app06.web.app/) | [Code](https://github.com/mizonov-iv/ReactNoteApp)
 
 ## ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 - Blog [Demo](https://miv-blog.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/JS-Blog)
