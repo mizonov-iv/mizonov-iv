@@ -6,6 +6,7 @@
 - ToDoList [Demo](https://simpletodoapplication1.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/AngularToDoApplication)
 
 ## ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=REACT)
+- Real Time Chat [Demo](https://react-chat-09.web.app/chat) | [Code](https://github.com/mizonov-iv/React-Real-Time-Chat)
 - Apple online-shop [Demo](https://ecommerce09-97559.web.app/) | [Code](https://github.com/mizonov-iv/React-E-Commerce)
 - React Book List with using json-server [Demo](https://github.com/mizonov-iv/React-Book-List/blob/main/README.md) | [Code](https://github.com/mizonov-iv/React-Book-List)
 - Note App with using Firebase RealTime Database [Demo](https://react-note-app-08.web.app/) | [Code](https://github.com/mizonov-iv/React-Note-App-with-Firebase)
