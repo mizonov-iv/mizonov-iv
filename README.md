@@ -6,7 +6,8 @@
 - ToDoList [Demo](https://simpletodoapplication1.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/AngularToDoApplication)
 
 ## ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=REACT)
-- Simple Note App [Demo](https://react-note-app06.web.app/) | [Code](https://github.com/mizonov-iv/ReactNoteApp)
+- Note App with using Firebase RealTime Database [Demo](https://react-note-app-08.web.app/) | [Code](https://github.com/mizonov-iv/React-Note-App-with-Firebase)
+- Simple Note App with using Local Storage [Demo](https://react-note-app06.web.app/) | [Code](https://github.com/mizonov-iv/ReactNoteApp)
 
 ## ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 - Blog [Demo](https://miv-blog.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/JS-Blog)
