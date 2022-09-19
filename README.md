@@ -1,10 +1,4 @@
 
-## ![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=ANGULAR)
-- Task Manager [Code](https://github.com/mizonov-iv/Task-manager)
-- Online Shop [Demo](https://online-shop-18c7d.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/OnlineShopSPA)
-- Blog [Demo](https://angular-blog2022.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/AngularBlog)
-- ToDoList [Demo](https://simpletodoapplication1.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/AngularToDoApplication)
-
 ## ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=REACT)
 - Real Time Chat [Demo](https://react-chat-09.web.app/chat) | [Code](https://github.com/mizonov-iv/React-Real-Time-Chat)
 - Apple online-shop [Demo](https://ecommerce09-97559.web.app/) | [Code](https://github.com/mizonov-iv/React-E-Commerce)
@@ -12,6 +6,12 @@
 - Note App with using Firebase RealTime Database [Demo](https://react-note-app-08.web.app/) | [Code](https://github.com/mizonov-iv/React-Note-App-with-Firebase)
 - Simple Note App with using Local Storage [Demo](https://react-note-app06.web.app/) | [Code](https://github.com/mizonov-iv/ReactNoteApp)
 - My Wife's portfolio [Demo](https://photo-by-mizonova.web.app/) | [Code](https://github.com/mizonov-iv/My-Wife-React-site)
+
+## ![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=ANGULAR)
+- Task Manager [Code](https://github.com/mizonov-iv/Task-manager)
+- Online Shop [Demo](https://online-shop-18c7d.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/OnlineShopSPA)
+- Blog [Demo](https://angular-blog2022.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/AngularBlog)
+- ToDoList [Demo](https://simpletodoapplication1.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/AngularToDoApplication)
 
 ## ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 - Blog [Demo](https://miv-blog.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/JS-Blog)
