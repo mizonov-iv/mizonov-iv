@@ -7,6 +7,10 @@
 - Simple Note App with using Local Storage [Demo](https://react-note-app06.web.app/) | [Code](https://github.com/mizonov-iv/ReactNoteApp)
 - My Wife's portfolio [Demo](https://photo-by-mizonova.web.app/) | [Code](https://github.com/mizonov-iv/My-Wife-React-site)
 
+
+## ![Vue](https://img.shields.io/badge/vue-000?style=for-the-badge&logo=VUE)
+- Insuranse Landing [Demo](https://insurance-09.web.app/) | [Code](https://github.com/mizonov-iv/Vue-Insurance-Landing)
+
 ## ![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=ANGULAR)
 - Task Manager [Code](https://github.com/mizonov-iv/Task-manager)
 - Online Shop [Demo](https://online-shop-18c7d.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/OnlineShopSPA)
