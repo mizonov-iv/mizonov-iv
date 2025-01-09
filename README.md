@@ -1,3 +1,16 @@
+## [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
+- Приложение для отчетов отдела продаж [Demo](https://react-chat-09.web.app/chat) | [Code](https://github.com/mizonov-iv/React-Real-Time-Chat)
+- мини-блог [Demo](https://react-chat-09.web.app/chat) | [Code](https://github.com/mizonov-iv/React-Real-Time-Chat)
+- advanced
+- eda 1
+
+## [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
+## [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+
+## [![Angular](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+
+![vuw.js](https://img.shields.io/badge/старые-you_like-blue)
 
 ## ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=REACT)
 - Real Time Chat [Demo](https://react-chat-09.web.app/chat) | [Code](https://github.com/mizonov-iv/React-Real-Time-Chat)
