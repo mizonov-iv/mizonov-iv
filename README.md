@@ -1,12 +1,12 @@
 Привет, меня зовут Илья. Я frontend-разработчик. 
 
 Владею:
-HTML, CSS, SCSS, Bootstrap, Tailwind css
-Javascript, Node.js + express
-Vue.js, Composition API
-Pinia, VieRouter, Axios, Vuelidate
-Nginx (деплой SPA)
-Git
++ HTML, CSS, SCSS, Bootstrap, Tailwind css
++ Javascript, Node.js + express
++ Vue.js, Composition API
++ Pinia, VieRouter, Axios, Vuelidate
++ Nginx (деплой SPA)
++ Git
 
 Есть небольшой опыт работы на
 Angular и React и jinja (рендеринга статики во Flask)
@@ -15,13 +15,17 @@ Angular и React и jinja (рендеринга статики во Flask)
 1. SPA для покупки страховых услуг (наподобие Сравни.ру).
 2. IT-помощник - сервис защиты интернет-трафика.
 
-Мои проекты:
-## [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
+Владею техническим английским языком.
+
+Telegram: @mizonov_iv
+
+## Мои проекты:
+### [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
 - Приложение для отчетов отдела продаж: [demo](https://baza-report.ru/) | [code](https://github.com/mizonov-iv/baza-report-app)
 - Мини-блог: [code](https://github.com/mizonov-iv/vue-blog)
 - Приложение для работы с заказами: [code](https://github.com/mizonov-iv/advance-test-task)
 
-## Старые проекты:
+### Старые проекты:
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 - Real Time Chat [Demo](https://react-chat-09.web.app/chat) | [Code](https://github.com/mizonov-iv/React-Real-Time-Chat)
 - Apple online-shop [Demo](https://ecommerce09-97559.web.app/) | [Code](https://github.com/mizonov-iv/React-E-Commerce)
