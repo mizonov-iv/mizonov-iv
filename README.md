@@ -1,10 +1,28 @@
+Привет, меня зовут Илья. Я frontend-разработчик. 
+
+Владею:
+HTML, CSS, SCSS, Bootstrap, Tailwind css
+Javascript, Node.js + express
+Vue.js, Composition API
+Pinia, VieRouter, Axios, Vuelidate
+Nginx (деплой SPA)
+Git
+
+Есть небольшой опыт работы на
+Angular и React и jinja (рендеринга статики во Flask)
+
+Работал с нуля на двух проектах:
+1. SPA для покупки страховых услуг (наподобие Сравни.ру).
+2. IT-помощник - сервис защиты интернет-трафика.
+
+Мои проекты:
 ## [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
 - Приложение для отчетов отдела продаж: [demo](https://baza-report.ru/) | [code](https://github.com/mizonov-iv/baza-report-app)
 - Мини-блог: [code](https://github.com/mizonov-iv/vue-blog)
 - Приложение для работы с заказами: [code](https://github.com/mizonov-iv/advance-test-task)
 
-## [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-Несколько старых проектов на React:
+## Старые проекты:
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 - Real Time Chat [Demo](https://react-chat-09.web.app/chat) | [Code](https://github.com/mizonov-iv/React-Real-Time-Chat)
 - Apple online-shop [Demo](https://ecommerce09-97559.web.app/) | [Code](https://github.com/mizonov-iv/React-E-Commerce)
 - React Book List with using json-server [Demo](https://github.com/mizonov-iv/React-Book-List/blob/main/README.md) | [Code](https://github.com/mizonov-iv/React-Book-List)
@@ -12,21 +30,13 @@
 - Simple Note App with using Local Storage [Demo](https://react-note-app06.web.app/) | [Code](https://github.com/mizonov-iv/ReactNoteApp)
 - My Wife's portfolio [Demo](https://photo-by-mizonova.web.app/) | [Code](https://github.com/mizonov-iv/My-Wife-React-site)
 
-## [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-
-## [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-
-
-## ![Vue](https://img.shields.io/badge/vue-000?style=for-the-badge&logo=VUE)
-- Insuranse Landing [Demo](https://insurance-09.web.app/) | [Code](https://github.com/mizonov-iv/Vue-Insurance-Landing)
-
-## ![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=ANGULAR)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 - Task Manager [Code](https://github.com/mizonov-iv/Task-manager)
 - Online Shop [Demo](https://online-shop-18c7d.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/OnlineShopSPA)
 - Blog [Demo](https://angular-blog2022.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/AngularBlog)
 - ToDoList [Demo](https://simpletodoapplication1.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/AngularToDoApplication)
 
-## ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 - Blog [Demo](https://miv-blog.firebaseapp.com/) | [Code](https://github.com/mizonov-iv/JS-Blog)
 - ToDoList [Demo](https://mizonov-iv.github.io/ToDoListOnJS/) | [Code](https://github.com/mizonov-iv/ToDoListOnJS)
 - AimGame [Demo](https://mizonov-iv.github.io/AimGame/) | [Code](https://github.com/mizonov-iv/AimGame)
@@ -36,14 +46,3 @@
   - Slider #1 [Demo](https://mizonov-iv.github.io/FrenchySlider/) | [Code](https://github.com/mizonov-iv/FrenchySlider)
   - Slider #2 [Demo](https://mizonov-iv.github.io/anotherTypeOfSlider/) | [Code](https://github.com/mizonov-iv/anotherTypeOfSlider)
   - Slider #3 [Demo](https://mizonov-iv.github.io/JS-slider/) | [Code](https://github.com/mizonov-iv/JS-slider)
-
-## ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=red) ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=fff)
-- My wife photographer portfolio [Demo](https://mizonov-iv.github.io/MyWifeLanding/) | [Code](https://github.com/mizonov-iv/MyWifeLanding)
-- Travel Agency [Demo](https://mizonov-iv.github.io/TravelAgency-site/) | [Code](https://github.com/mizonov-iv/TravelAgency-site)
-- English School [Demo](https://mizonov-iv.github.io/EnglishSchool-site/) | [Code](https://github.com/mizonov-iv/EnglishSchool-site)
-- FightClub [Demo](https://mizonov-iv.github.io/FightClub-site/) | [Code](https://github.com/mizonov-iv/FightClub-site)
-- Business [Demo](https://mizonov-iv.github.io/Realvise-site/) | [Code](https://github.com/mizonov-iv/Realvise-site)
-- RunSmart [Demo](https://mizonov-iv.github.io/RunSmart-site/) | [Code](https://github.com/mizonov-iv/RunSmart-site)
-- Uber [Demo](https://mizonov-iv.github.io/Uber/) | [Code](https://github.com/mizonov-iv/Uber)
-
-![Image](https://www.codewars.com/users/mizonov-iv/badges/large)
