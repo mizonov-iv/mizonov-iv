@@ -1,24 +1,20 @@
 ## [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
-- Приложение для отчетов отдела продаж [Demo](https://react-chat-09.web.app/chat) | [Code](https://github.com/mizonov-iv/React-Real-Time-Chat)
-- мини-блог [Demo](https://react-chat-09.web.app/chat) | [Code](https://github.com/mizonov-iv/React-Real-Time-Chat)
-- advanced
-- eda 1
+- Приложение для отчетов отдела продаж: [demo](https://baza-report.ru/) | [code](https://github.com/mizonov-iv/baza-report-app)
+- Мини-блог: [code](https://github.com/mizonov-iv/vue-blog)
+- Приложение для работы с заказами: [code](https://github.com/mizonov-iv/advance-test-task)
 
 ## [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-
-## [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-
-## [![Angular](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-
-![vuw.js](https://img.shields.io/badge/старые-you_like-blue)
-
-## ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=REACT)
+Несколько старых проектов на React:
 - Real Time Chat [Demo](https://react-chat-09.web.app/chat) | [Code](https://github.com/mizonov-iv/React-Real-Time-Chat)
 - Apple online-shop [Demo](https://ecommerce09-97559.web.app/) | [Code](https://github.com/mizonov-iv/React-E-Commerce)
 - React Book List with using json-server [Demo](https://github.com/mizonov-iv/React-Book-List/blob/main/README.md) | [Code](https://github.com/mizonov-iv/React-Book-List)
 - Note App with using Firebase RealTime Database [Demo](https://react-note-app-08.web.app/) | [Code](https://github.com/mizonov-iv/React-Note-App-with-Firebase)
 - Simple Note App with using Local Storage [Demo](https://react-note-app06.web.app/) | [Code](https://github.com/mizonov-iv/ReactNoteApp)
 - My Wife's portfolio [Demo](https://photo-by-mizonova.web.app/) | [Code](https://github.com/mizonov-iv/My-Wife-React-site)
+
+## [![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+
+## [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 
 ## ![Vue](https://img.shields.io/badge/vue-000?style=for-the-badge&logo=VUE)
